@@ -1,0 +1,1 @@
+Menu driven program of Banking management system. This project is built using C++ with OOP's concepts. Aim of this project is to get hands own experience with OOP'S concepts or to learn more about OOP'S concepts.
